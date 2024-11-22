@@ -1,0 +1,11 @@
+#text-a{
+    height: inherit;
+    background-color: rgb(150, 150, 150);
+    border-radius: 10px;
+    margin: 2px solid white;
+    color: azure;
+    padding:30px 60px;
+    overflow: hidden;
+    text-align: center;
+    align-content: center;
+}
