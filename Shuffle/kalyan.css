@@ -23,3 +23,22 @@
 #logo-img{
     height: 100px;
 }
+
+/*   ---------------------------------- chat-bot --------------------*/
+
+input{
+    border-style: none;
+    border: none;
+    outline: none;
+    border: none;
+    /* padding:2px;
+    margin-right: 2px; */
+    background-color: transparent;
+    
+}
+.search-bar{
+    border: 1.5px solid #0abab5;
+    border-radius: 15px;
+    padding:2.5px;
+    margin:2px;
+}
